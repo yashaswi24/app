@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/a1"
+        android:icon="@drawable/ic_1"
+        android:title="Show Data"/>
+    <item android:id="@+id/a2"
+        android:icon="@drawable/ic_2"
+        android:title="Show Location"/>
+    <item android:id="@+id/a3"
+        android:icon="@mipmap/ic_5"
+        android:title="All meter Data"/>
+    <item android:id="@+id/a4"
+        android:icon="@drawable/ic_5"
+        android:title="Usage Patern"/>
+    <item android:id="@+id/a5"
+        android:icon="@mipmap/ic_4"
+        android:title="Visualize Channel"/>
+
+</menu>
